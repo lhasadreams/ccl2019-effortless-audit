@@ -1,0 +1,9 @@
+name: effortless-audit
+title: Effortless Audit for Chef Conf
+maintainer: AFD
+copyright: AFD
+copyright_email: adrian@chef.io
+license: Apache-2.0
+summary: Effortless Audit Linux
+version: 0.1.0
+depends:
